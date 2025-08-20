@@ -34,12 +34,6 @@ To run this project locally:
 1. Clone the repository
 2. Open `index.html` in your browser
 
-## Deployment
-
-This portfolio can be easily deployed for free using GitHub Pages, Netlify, or Vercel.
-
-For detailed deployment instructions, see the [DEPLOYMENT.md](DEPLOYMENT.md) file.
-
 ## Customization
 
 To customize this portfolio:
