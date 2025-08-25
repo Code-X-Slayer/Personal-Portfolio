@@ -1,0 +1,27 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "A clean, responsive personal portfolio website showcasing my skills, projects, certifications, and achievements.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-X-Slayer/Personal-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code-X-Slayer/Personal-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Code-X-Slayer/Personal-Portfolio#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.5"
+  },
+  "keywords": []
+}
