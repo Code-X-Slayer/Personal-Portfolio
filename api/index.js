@@ -36,7 +36,4 @@ app.post('/send-email', (req, res) => {
     res.json({ success: true, message: 'Email sent successfully' });
   });
 });
-
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
+module.exports = app;
