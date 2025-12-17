@@ -314,6 +314,7 @@ nav {
 .about-content p {
     margin-bottom: 1.5rem;
     font-size: 1.1rem;
+    text-align: justify;
 }
 
 .education {
@@ -399,7 +400,7 @@ nav {
 
 .projects-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;
 }
 
@@ -446,6 +447,7 @@ nav {
 .project-description {
     flex-grow: 1;
     margin-bottom: 1rem;
+    text-align: justify;
 }
 
 .project-date {
