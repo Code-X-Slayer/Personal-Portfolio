@@ -649,6 +649,7 @@ footer .social-links a:hover {
     from {
         opacity: 0;
     }
+
     to {
         opacity: 1;
     }
@@ -659,6 +660,7 @@ footer .social-links a:hover {
         opacity: 0;
         transform: translateY(20px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
